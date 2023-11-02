@@ -1,0 +1,9 @@
+{
+  "API_ENDPOINT": "http://103.53.30.196:90/api/",
+  "TOKEN_CONFIG": {
+    "EMAIL": "",
+    "PASSWORD": ""
+  },
+  "SOURCE": "mobileapp",
+  "CRYPT_KEY": ""
+}
